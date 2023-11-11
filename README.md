@@ -1,3 +1,3 @@
-![gif](/images/animacion_2.gif)
+![gif](/images/animacion.gif)
 
 # Imitating Teaching: An Automated Approach Using Large Language Model
