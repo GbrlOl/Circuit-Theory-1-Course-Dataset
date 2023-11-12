@@ -6,7 +6,7 @@ This repository contains the dataset created for the fine tuning of the Falcon 7
 
 ## Transcriptor
 
-<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karpathy/llama2.c/blob/master/run.ipynb) -->
+In the following collab you can transcribe any youtube video. You can also transcribe any audio you upload to google colab, just indicate the path.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1deXa-blD483kjoA6puk23H8PwPNSYp76?usp=sharing)
 
-https://colab.research.google.com/drive/1deXa-blD483kjoA6puk23H8PwPNSYp76?usp=sharing
