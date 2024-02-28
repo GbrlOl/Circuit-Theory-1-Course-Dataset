@@ -10,3 +10,6 @@ In the following collab you can transcribe any youtube video. You can also trans
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1deXa-blD483kjoA6puk23H8PwPNSYp76?usp=sharing)
 
+# Artículo de Conferencia
+
+[Paper IEEE ChileCon 2023](https://ieeexplore.ieee.org/document/10418678)
